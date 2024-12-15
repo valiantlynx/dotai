@@ -16,6 +16,7 @@ pkgs.mkShell {
     pkgs.python3Packages.scikit-learn
     pkgs.python3Packages.flask
     pkgs.python3Packages.numba
+    pkgs.python3Packages.tqdm
     pkgs.uv
   ];
 
