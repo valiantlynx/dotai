@@ -1,2 +1,4 @@
 .idea
 .venv
+.tmp*
+dota_games.zip
