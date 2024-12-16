@@ -1,0 +1,31 @@
+
+{
+  "result": {
+    "radiant_win": true,  // bool
+    "duration": 1937,  // int
+    "match_id": 5602418651,  // int
+    "tower_status_radiant": 1983,  // int
+    "tower_status_dire": 4,  // int
+    "lobby_type": 7,  // int
+    "game_mode": 22,  // int
+    "radiant_score": 48,  // int
+    "dire_score": 14  // int
+  },
+  "player": {
+    "player_slot": "0 -> 10",  // int
+    "hero_id": "int",
+    "kills": "int",
+    "deaths": "int",
+    "assists": "int",
+    "leaver_status": "int",
+    "last_hits": "int",
+    "denies": "int",
+    "gold_per_min": "int",
+    "xp_per_min": "int",
+    "level": "int",
+    "hero_damage": "int",
+    "tower_damage": "int",
+    "hero_healing": "int",
+    "gold": "int"
+  }
+}
